@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: backend
+
+app:
+  cors:
+    allowed-origins: "http://localhost:3000, frontend:3000"
